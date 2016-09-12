@@ -42,4 +42,3 @@ title('Nitrate')
 xlim([0 528])
 ylabel('Concentration')
 
-print(gcf,'-r600')
